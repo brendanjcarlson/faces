@@ -4,6 +4,8 @@
 # A smiley face looks like -->   :) or :D
 # A sad face looks like -->   :( or :'(
 
+# Limitations: You cannot use the count method.
+
 
 # Examples:
 # solution("Hello there:) I'm a smiley face:) but sometimes I get sad :(. I'm usually really happy! :D") --> 3, 1
